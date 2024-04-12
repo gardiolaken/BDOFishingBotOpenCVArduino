@@ -1,6 +1,9 @@
 # BDOFishingBotOpenCVArduino
 Bdo Read game using OpenCV, input using Arduino physical
 
+See image below. We detect the sequence of letters shown on screen showcased by highlighted boxes on the left with color coded for each letter.
+![image](https://github.com/gardiolaken/BDOFishingBotOpenCVArduino/assets/14264185/7075b8ca-cf40-43b8-a937-7df1dbb9f104)
+
 #This program does not have best practice!!!
 #Purpose of this program is for interest and pleasure.
 #This was done rushed and with a 'just make it work' approach.
